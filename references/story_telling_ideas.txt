@@ -1,4 +1,0 @@
-1. word cloud
-2. distributions/word trends
-3. topic modeling
-3. 

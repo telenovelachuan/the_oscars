@@ -21,6 +21,9 @@ A data science project on the Shakespeare player lines dataset that aims to appl
 - Word cloud for all player lines
 ![word_count_all](https://github.com/telenovelachuan/the_oscars/blob/master/reports/figures/feature_visualization/word_cloud_all_words.png)
 
+- Word cloud for Hamlet subset
+![word_count_hamlet](https://github.com/telenovelachuan/the_oscars/blob/master/reports/figures/feature_visualization/word_cloud_Hamlet.png)
+
 
 # Topic storytelling
 

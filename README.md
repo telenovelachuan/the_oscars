@@ -30,8 +30,12 @@ A data science project on the Shakespeare player lines dataset that aims to appl
 Build LDA model to group topics for the Shakespeare player line dataset. Use several methodologies in dimensionality reduction and visualization for storytelling.
 
 - Construct vectorizer, document term matrix and topic matrix for the Hamlet subset.
-- use t-SNE to reduce the dimensionality of topic matrix vector into 2, and visualize
+- use t-SNE to reduce the dimensionality of topic matrix vector for Hamlet subset into 2, and visualize
 ![tSNE_hamlet](https://github.com/telenovelachuan/the_oscars/blob/master/reports/figures/topic_modeling/tSNE_2D_Hamlet.png)
+
+- use t-SNE to reduce the dimensionality of topic matrix vector for GLOUCESTER subset into 2, and visualize
+![tSNE_GLOUCESTER](https://github.com/telenovelachuan/the_oscars/blob/master/reports/figures/topic_modeling/tSNE_2D_GLOUCESTER.png)
+
 
 - use pyLDAvis to do interactive visualization of topic matrix
 ![pyLDAvis_screenshot](https://github.com/telenovelachuan/the_oscars/blob/master/reports/figures/topic_modeling/pyLADvis_GLOUCESTER_tSNE.png)
